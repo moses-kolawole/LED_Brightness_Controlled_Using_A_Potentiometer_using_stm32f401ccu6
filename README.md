@@ -6,6 +6,9 @@ This project demonstrates how to control the brightness of an LED using a potent
 ## Project Code
 [Click here to access the project code](code)
 
+## Project Image
+![Click here to check out the project image](images/IMG_20260724_143123_287.jpg)
+
 ## Final Outcome
 - LED brightness changes smoothly as the potentiometer is rotated.
 - Analog input is converted into a PWM duty cycle in real time.
@@ -17,6 +20,9 @@ This project demonstrates how to control the brightness of an LED using a potent
 - Real-time brightness adjustment
 - Timer-based PWM generation
 - Register-level (Bare-Metal) STM32 programming
+
+## Project Demo video
+[Click here to check out the Demostration Video](https://youtube.com/shorts/XR25fPwKZ8I?feature=share)
 
 ## Hardware Used
 - STM32F401CCU6 Black Pill
